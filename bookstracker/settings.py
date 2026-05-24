@@ -83,6 +83,7 @@ DATABASES = {
         'PASSWORD': 'PGPASSWORD=aFpet1hnT392j7uXfFIPWWNzHsVcGrOo psql -h dpg-d89f0f3eo5us738pu0cg-a.oregon-postgres.render.com -U teja weatherdb_d0cz',
         'HOST': 'dpg-d89f0f3eo5us738pu0cg-a',
         'PORT': '5432',
+        
     }
 }
 
