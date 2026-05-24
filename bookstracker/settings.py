@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'bookstracker.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'practice-db',
-        'USER': 'postgres',
-        'PASSWORD': 'learn123',
-        'HOST': 'localhost',
+        'NAME': 'weatherdb_d0cz',
+        'USER': 'teja',
+        'PASSWORD': 'PGPASSWORD=aFpet1hnT392j7uXfFIPWWNzHsVcGrOo psql -h dpg-d89f0f3eo5us738pu0cg-a.oregon-postgres.render.com -U teja weatherdb_d0cz',
+        'HOST': 'dpg-d89f0f3eo5us738pu0cg-a',
         'PORT': '5432',
     }
 }
