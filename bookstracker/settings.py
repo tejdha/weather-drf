@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'weatherdb_d0cz',
         'USER': 'teja',
         'PASSWORD': 'aFpet1hnT392j7uXfFIPWWNzHsVcGrOo',
-        'HOST': 'dpg-d89f0f3eo5us738pu0cg-a',
+        'HOST': 'dpg-d89f0f3eo5us738pu0cg-a.oregon-postgres.render.com',
         'PORT': '5432',
         
     }
